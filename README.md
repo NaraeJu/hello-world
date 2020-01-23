@@ -1,2 +1,6 @@
 # hello-world
-First repository
+
+ Hi everyone!
+ 
+ This is my first time using Github. I am trying to follow the tutorial.
+ 
